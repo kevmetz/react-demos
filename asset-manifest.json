@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-demos/static/css/main.48222fe8.css",
+    "main.js": "/react-demos/static/js/main.24ba7962.js",
+    "static/media/zpos.jpg": "/react-demos/static/media/zpos.b29677753296dc1724ab.jpg",
+    "static/media/coster.png": "/react-demos/static/media/coster.f0264de07ad56d49fedf.png",
+    "static/media/sun2-bk.png": "/react-demos/static/media/sun2-bk.87f33218ea62b6f2dab9.png",
+    "static/media/controls1.png": "/react-demos/static/media/controls1.2dee427f04c681ed7624.png",
+    "static/media/titanium.jpg": "/react-demos/static/media/titanium.5b81c1e663ddb8fdbc8e.jpg",
+    "static/media/controls2.png": "/react-demos/static/media/controls2.5a25fd5c266ce91e0513.png",
+    "static/media/mr-doob.svg": "/react-demos/static/media/mr-doob.cbcf995aaf67e02585f07463f55b1f0a.svg",
+    "static/media/spinner2.svg": "/react-demos/static/media/spinner2.11fae2bdef31ea9b3f121bcd104115d8.svg",
+    "index.html": "/react-demos/index.html",
+    "static/media/react.svg": "/react-demos/static/media/react.f05a5c600294d8308f8e8076a33838b5.svg",
+    "main.48222fe8.css.map": "/react-demos/static/css/main.48222fe8.css.map",
+    "main.24ba7962.js.map": "/react-demos/static/js/main.24ba7962.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48222fe8.css",
+    "static/js/main.24ba7962.js"
+  ]
+}
